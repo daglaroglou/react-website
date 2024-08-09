@@ -2,7 +2,7 @@
 	"private": true,
 	"name": "devfolio",
 	"version": "1.0.0",
-	"description": "devfolio instance",
+	"description": "Personal Website",
 	"repository": "",
 	"author": "dag",
 	"license": "MIT",
@@ -43,9 +43,9 @@
 		"inter-ui": "^3.19.3",
 		"is-web-crawler": "^1.1.0",
 		"motion": "^10.7.2",
-		"next": "^12.3.4",
-		"next-axiom": "^0.13.0",
-		"next-mdx-remote": "^3.0.6",
+		"next": "^14.2.5",
+		"next-axiom": "^1.4.0",
+		"next-mdx-remote": "^5.0.0",
 		"next-seo": "^4.28.1",
 		"next-themes": "^0.1.1",
 		"nprogress": "^0.2.0",
@@ -63,8 +63,7 @@
 		"remark-slug": "^7.0.0",
 		"swr": "^1.0.1",
 		"use-sound": "^4.0.1",
-		"windicss": "^3.5.6",
-		"yarn": "^1.22.22"
+		"windicss": "^3.5.6"
 	},
 	"devDependencies": {
 		"@types/canvas-confetti": "^1.4.2",
@@ -84,6 +83,5 @@
 		"ts-shader-loader": "^1.0.6",
 		"typescript": "^5.0.4",
 		"windicss-webpack-plugin": "^1.7.8"
-	},
-	"main": "index.js"
+	}
 }
