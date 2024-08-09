@@ -1,0 +1,72 @@
+[
+	{
+		"bonus": "Free 10€ for singup",
+		"code": "6d7f5916-edff-4060-8a47-cbfdb4599492",
+		"color": "#5801d2",
+		"description": "The easiest way to send, spend, bank, and invest",
+		"homepage": "https://payzy.gr/",
+		"icon": "heroicons-outline:currency-euro",
+		"name": "Payzy",
+		"url": "https://baf.payzy.gr/6d7f5916-edff-4060-8a47-cbfdb4599492"
+	},
+	{
+		"aliases": [
+			"crypto",
+			"bitcoin"
+		],
+		"bonus": "Free 30€ after 15€ of purchase",
+		"code": "christy3pk!AUG1-24-AR-L2",
+		"color": "#000000",
+		"description": "Jump start your crypto portfolio",
+		"homepage": "https://www.revolut.com",
+		"icon": "heroicons-outline:banknotes",
+		"name": "Revolut",
+		"url": "https://revolut.com/referral/?referral-code=christy3pk!AUG1-24-AR-L2"
+	},
+	{
+		"color": "#f86955",
+		"description": "Donation platform",
+		"homepage": "https://www.patreon.com/",
+		"icon": "heroicons-outline:cake",
+		"name": "Patreon",
+		"url": "https://patreon.com/daglaroglou"
+	},
+	{
+		"aliases": [
+			"crypto",
+			"bitcoin"
+		],
+		"bonus": "20$ BTC in 100$ deposit",
+		"code": "6c236f7ba1",
+		"color": "#46d467",
+		"description": "Crypto wallet, suggested by Brave",
+		"homepage": "https://uphold.com/",
+		"icon": "heroicons-outline:circle-stack",
+		"name": "Uphold",
+		"url": "https://wallet.uphold.com/signup?referral=6c236f7ba1"
+	},
+	{
+		"aliases": [
+			"donate",
+			"payment",
+			"crypto"
+		],
+		"color": "#019ddf",
+		"description": "PayPal is the faster, safer way to send and receive money or make an online payment.",
+		"homepage": "https://www.paypal.com/",
+		"icon": "heroicons-outline:credit-card",
+		"name": "PayPal",
+		"url": "https://paypal.me/daglaroglou"
+	},
+	{
+		"aliases": [
+			"donate"
+		],
+		"color": "#000000",
+		"description": "Any donation is appreciated :3",
+		"homepage": "https://www.github.com/",
+		"icon": "heroicons-outline:command-line",
+		"name": "GitHub Sponsors",
+		"url": "https://github.com/sponsors/daglaroglou"
+	}
+]
