@@ -39,7 +39,7 @@ export function Widget(): JSX.Element {
 		{
 			avatar: {
 				alt: 'Discord Avatar',
-				url: `https://cdn.discordapp.com/avatars/${status.discord_user.id}/${status.discord_user.avatar}.webp?size=256`,
+				url: `https://cdn.discordapp.com/avatars/${status.discord_user.id}/${status.discord_user.avatar}.gif?size=256`,
 			},
 			title: status.discord_user.username,
 			description: (status.discord_status === "dnd" ? "Do Not Disturb" : `${status.discord_status.charAt(0).toUpperCase()}${status.discord_status.slice(1)}`),
