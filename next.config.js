@@ -1,6 +1,6 @@
 const WindiCSS = require('windicss-webpack-plugin');
 const { withAxiom } = require('next-axiom');
-
+const isProd = process.env.NODE_ENV === 'production';
 const ContentSecurityPolicy = `
   child-src *.google.com streamable.com;
   connect-src *;
@@ -93,4 +93,8 @@ const config = {
 	},
 };
 
-module.exports = withAxiom(config);
+module.exports = {
+	withAxiom(config);
+	basePath: isProd ? '/react-website' : '',
+  	assetPrefix: isProd ? '/react-website/' : ''
+}
