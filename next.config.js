@@ -94,7 +94,7 @@ const config = {
 };
 
 module.exports = {
-	withAxiom(config);
+	withAxiom(config),
 	basePath: isProd ? '/react-website' : '',
   	assetPrefix: isProd ? '/react-website/' : ''
 }
