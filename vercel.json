@@ -1,0 +1,20 @@
+{
+	"$schema": "https://openapi.vercel.sh/vercel.json",
+	"version": 2,
+	"alias": "dag.killyourself.lol",
+	"cleanUrls": true,
+	"public": true,
+	"regions": ["lhr1"],
+	"redirects": [
+		{ "source": "/cv", "destination": "https://dag.killyourself.lol" },
+		{ "source": "/github", "destination": "https://github.com/daglaroglou" },
+		{ "source": "/linkedin", "destination": "https://www.linkedin.com" },
+		{ "source": "/portfolio", "destination": "/projects" },
+		{ "source": "/resume", "destination": "https://dag.killyourself.lol" },
+		{ "source": "/twitter", "destination": "https://twitter.com/_daglaroglou_" },
+		{
+			"source": "/contact",
+			"destination": "https://twitter.com/direct_messages/create/_daglaroglou_"
+		}
+	]
+}
